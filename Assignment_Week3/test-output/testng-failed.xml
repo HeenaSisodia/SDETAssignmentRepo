@@ -3,12 +3,12 @@
 <suite guice-stage="DEVELOPMENT" name="Failed suite [Default suite]">
   <test name="Default test(failed)">
     <classes>
-      <class name="assignmentQ1.TestScenarios">
+      <class name="assignmentQ2.TestProj">
         <methods>
-          <include name="beforeTest"/>
-          <include name="ValidateAdminClass"/>
+          <include name="Test3"/>
+          <include name="Test2"/>
         </methods>
-      </class> <!-- assignmentQ1.TestScenarios -->
+      </class> <!-- assignmentQ2.TestProj -->
     </classes>
   </test> <!-- Default test(failed) -->
 </suite> <!-- Failed suite [Default suite] -->

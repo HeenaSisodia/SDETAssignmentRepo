@@ -12,8 +12,8 @@ public class LoginPage {
 
     WebDriver driver;
     Properties prop = new Properties();
-    By username;
-    By password;
+    private By username;
+    private By password;
 
     
     public LoginPage(WebDriver driver)
